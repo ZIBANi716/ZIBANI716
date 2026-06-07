@@ -1,7 +1,7 @@
 ‎# Hi there, I'm Ryslan! 👋
 ‎
 ‎### 🚀 Aspiring C# / .NET Developer ### 
-‎ I am a 12-year-old developer from Russia, currently focused on mastering **C#** and building a strong foundation for a future career in Europe. My goal is to become a Middle Engineer by the age of 18 and eventually move to France.
+‎ I am a 13-year-old developer from Russia, currently focused on mastering **C#** and building a strong foundation for a future career in Europe. My goal is to become a Middle Engineer by the age of 18 and eventually move to France.
 ‎
 ‎---
 ‎
@@ -20,6 +20,7 @@
 ‎---
 ‎
 ‎## 📬 Contact me
+*   **Telegram:** @ZIBANI716
 ‎*   **GitHub:** https://github.com/ZIBANi716
 ‎*   **Goal:** Open for mentorship and networking with like-minded developers.
 ‎
